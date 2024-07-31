@@ -9,7 +9,7 @@ export function Item(
         <li key={id}>
         {text}
         <button onClick={handleClick}>
-           Eliminar 
+           Eliminar
         </button>
       </li>
     )
